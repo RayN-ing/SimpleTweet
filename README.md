@@ -1,6 +1,6 @@
-# Project 2 - *Name of App Here*
+# Project 2 - SimpleTwitter
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+SimpleTwitter is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **X** hours spent in total
 
@@ -33,19 +33,25 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/BxIxiukQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+For some reason the version of Android Studio that I use didnt rename all of the RestClient and such names from the 2nd video. When I tried to run the program I kept getting errors
+until I finally just asked on discord and someone pointed out to just scroll through logcat... yeah I didn't hitnk of that for some reason.
+
+Also I didn't want to create a twitter account- its kind of felt like a loss, but my dad gave me access to his so I managed.
 
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
+
+Am I supposed to change things in the license section?
 ## License
 
     Copyright [yyyy] [name of copyright owner]
