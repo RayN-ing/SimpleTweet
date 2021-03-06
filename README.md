@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university/BxIxiukQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/android_university/BxIxiukQ.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
